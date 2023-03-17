@@ -1,0 +1,6 @@
+2023-02-14 10:51:21,662   INFO  ==> Loading from checkpoint '/home/yf/code/MonoDETR/runs/monodetr/checkpoint_best.pth'
+2023-02-14 10:51:26,606   INFO  ==> Done
+2023-02-14 10:51:26,608   INFO  Loading Checkpoint... Best Result:6.622340617227715, Best Epoch:180
+2023-02-14 10:51:26,608   INFO  ###################  Training  ##################
+2023-02-14 10:51:26,608   INFO  Batch Size: 16
+2023-02-14 10:51:26,608   INFO  Learning Rate: 0.000200

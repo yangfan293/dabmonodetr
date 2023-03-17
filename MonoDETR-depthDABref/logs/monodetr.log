@@ -1,0 +1,101 @@
+>>>>>>> Epoch: 0:
+---- 0 ----
+loss_detr: 155.49, 
+loss_ce: 2.24, loss_bbox: 8.16, loss_giou: 1.94, loss_depth: 29.70, loss_dim: 7.16, loss_angle: 2.71, loss_center: 2.09, loss_depth_map: 2.25, 
+loss_ce_0: 2.14, loss_bbox_0: 1.22, loss_giou_0: 2.53, loss_depth_0: 13.20, loss_dim_0: 7.45, loss_angle_0: 2.86, loss_center_0: 3.05, 
+loss_ce_1: 2.03, loss_bbox_1: 1.18, loss_giou_1: 2.22, loss_depth_1: 49.13, loss_dim_1: 7.30, loss_angle_1: 2.66, loss_center_1: 2.27, 
+
+---- 30 ----
+loss_detr: 41.40, 
+loss_ce: 0.74, loss_bbox: 0.74, loss_giou: 2.17, loss_depth: 3.88, loss_dim: 1.48, loss_angle: 1.99, loss_center: 1.39, loss_depth_map: 1.54, 
+loss_ce_0: 0.77, loss_bbox_0: 0.60, loss_giou_0: 3.19, loss_depth_0: 3.76, loss_dim_0: 1.68, loss_angle_0: 1.99, loss_center_0: 3.47, 
+loss_ce_1: 0.72, loss_bbox_1: 0.62, loss_giou_1: 2.24, loss_depth_1: 3.53, loss_dim_1: 1.80, loss_angle_1: 1.98, loss_center_1: 1.11, 
+
+---- 60 ----
+loss_detr: 39.03, 
+loss_ce: 0.71, loss_bbox: 0.58, loss_giou: 2.45, loss_depth: 3.60, loss_dim: 0.65, loss_angle: 2.39, loss_center: 1.82, loss_depth_map: 1.37, 
+loss_ce_0: 0.69, loss_bbox_0: 0.61, loss_giou_0: 3.02, loss_depth_0: 3.69, loss_dim_0: 0.59, loss_angle_0: 2.40, loss_center_0: 3.16, 
+loss_ce_1: 0.68, loss_bbox_1: 0.61, loss_giou_1: 2.16, loss_depth_1: 3.58, loss_dim_1: 0.63, loss_angle_1: 2.36, loss_center_1: 1.28, 
+
+---- 90 ----
+loss_detr: 36.31, 
+loss_ce: 0.75, loss_bbox: 0.51, loss_giou: 1.61, loss_depth: 3.70, loss_dim: 0.59, loss_angle: 2.40, loss_center: 0.69, loss_depth_map: 0.98, 
+loss_ce_0: 0.75, loss_bbox_0: 0.57, loss_giou_0: 3.12, loss_depth_0: 3.76, loss_dim_0: 0.67, loss_angle_0: 2.43, loss_center_0: 3.25, 
+loss_ce_1: 0.74, loss_bbox_1: 0.53, loss_giou_1: 1.68, loss_depth_1: 3.88, loss_dim_1: 0.54, loss_angle_1: 2.40, loss_center_1: 0.76, 
+
+---- 120 ----
+loss_detr: 38.08, 
+loss_ce: 0.94, loss_bbox: 0.60, loss_giou: 2.13, loss_depth: 3.70, loss_dim: 0.62, loss_angle: 2.45, loss_center: 1.28, loss_depth_map: 0.84, 
+loss_ce_0: 0.87, loss_bbox_0: 0.69, loss_giou_0: 2.75, loss_depth_0: 3.67, loss_dim_0: 0.62, loss_angle_0: 2.49, loss_center_0: 2.57, 
+loss_ce_1: 0.89, loss_bbox_1: 0.61, loss_giou_1: 2.14, loss_depth_1: 3.89, loss_dim_1: 0.61, loss_angle_1: 2.44, loss_center_1: 1.26, 
+
+---- 150 ----
+loss_detr: 38.14, 
+loss_ce: 0.74, loss_bbox: 0.66, loss_giou: 2.06, loss_depth: 3.54, loss_dim: 0.57, loss_angle: 2.50, loss_center: 1.34, loss_depth_map: 1.07, 
+loss_ce_0: 0.76, loss_bbox_0: 0.67, loss_giou_0: 2.86, loss_depth_0: 3.63, loss_dim_0: 0.59, loss_angle_0: 2.54, loss_center_0: 3.09, 
+loss_ce_1: 0.76, loss_bbox_1: 0.67, loss_giou_1: 2.09, loss_depth_1: 3.57, loss_dim_1: 0.61, loss_angle_1: 2.52, loss_center_1: 1.31, 
+
+---- 180 ----
+loss_detr: 36.80, 
+loss_ce: 0.69, loss_bbox: 0.63, loss_giou: 1.68, loss_depth: 3.57, loss_dim: 0.55, loss_angle: 2.35, loss_center: 0.81, loss_depth_map: 2.07, 
+loss_ce_0: 0.66, loss_bbox_0: 0.67, loss_giou_0: 2.95, loss_depth_0: 3.51, loss_dim_0: 0.69, loss_angle_0: 2.36, loss_center_0: 3.37, 
+loss_ce_1: 0.67, loss_bbox_1: 0.64, loss_giou_1: 1.64, loss_depth_1: 3.56, loss_dim_1: 0.63, loss_angle_1: 2.34, loss_center_1: 0.76, 
+
+---- 210 ----
+loss_detr: 35.27, 
+loss_ce: 0.71, loss_bbox: 0.59, loss_giou: 1.78, loss_depth: 3.67, loss_dim: 0.51, loss_angle: 2.26, loss_center: 0.89, loss_depth_map: 1.07, 
+loss_ce_0: 0.67, loss_bbox_0: 0.59, loss_giou_0: 2.83, loss_depth_0: 3.68, loss_dim_0: 0.57, loss_angle_0: 2.24, loss_center_0: 2.99, 
+loss_ce_1: 0.72, loss_bbox_1: 0.53, loss_giou_1: 1.73, loss_depth_1: 3.63, loss_dim_1: 0.54, loss_angle_1: 2.22, loss_center_1: 0.84, 
+
+inference on 236 images by 0.3593285649509753/per image
+>>>>>>> Epoch: 1:
+---- 0 ----
+loss_detr: 35.11, 
+loss_ce: 0.94, loss_bbox: 0.50, loss_giou: 1.66, loss_depth: 3.46, loss_dim: 0.64, loss_angle: 2.57, loss_center: 0.76, loss_depth_map: 0.65, 
+loss_ce_0: 0.91, loss_bbox_0: 0.51, loss_giou_0: 2.82, loss_depth_0: 3.57, loss_dim_0: 0.66, loss_angle_0: 2.53, loss_center_0: 2.62, 
+loss_ce_1: 1.07, loss_bbox_1: 0.48, loss_giou_1: 1.53, loss_depth_1: 3.46, loss_dim_1: 0.64, loss_angle_1: 2.53, loss_center_1: 0.61, 
+
+---- 30 ----
+loss_detr: 33.24, 
+loss_ce: 0.77, loss_bbox: 0.53, loss_giou: 1.53, loss_depth: 3.67, loss_dim: 0.66, loss_angle: 2.09, loss_center: 0.54, loss_depth_map: 0.75, 
+loss_ce_0: 0.76, loss_bbox_0: 0.56, loss_giou_0: 2.72, loss_depth_0: 3.71, loss_dim_0: 0.66, loss_angle_0: 2.07, loss_center_0: 2.39, 
+loss_ce_1: 0.78, loss_bbox_1: 0.53, loss_giou_1: 1.61, loss_depth_1: 3.61, loss_dim_1: 0.67, loss_angle_1: 2.06, loss_center_1: 0.58, 
+
+---- 60 ----
+loss_detr: 33.79, 
+loss_ce: 0.82, loss_bbox: 0.52, loss_giou: 1.50, loss_depth: 3.57, loss_dim: 0.62, loss_angle: 2.24, loss_center: 0.54, loss_depth_map: 0.67, 
+loss_ce_0: 0.75, loss_bbox_0: 0.62, loss_giou_0: 2.79, loss_depth_0: 3.51, loss_dim_0: 0.64, loss_angle_0: 2.21, loss_center_0: 3.11, 
+loss_ce_1: 0.83, loss_bbox_1: 0.52, loss_giou_1: 1.43, loss_depth_1: 3.48, loss_dim_1: 0.68, loss_angle_1: 2.25, loss_center_1: 0.48, 
+
+---- 90 ----
+loss_detr: 33.51, 
+loss_ce: 0.72, loss_bbox: 0.66, loss_giou: 1.43, loss_depth: 3.44, loss_dim: 0.62, loss_angle: 2.27, loss_center: 0.54, loss_depth_map: 1.28, 
+loss_ce_0: 0.67, loss_bbox_0: 0.67, loss_giou_0: 2.66, loss_depth_0: 3.44, loss_dim_0: 0.62, loss_angle_0: 2.28, loss_center_0: 2.63, 
+loss_ce_1: 0.72, loss_bbox_1: 0.66, loss_giou_1: 1.43, loss_depth_1: 3.40, loss_dim_1: 0.60, loss_angle_1: 2.24, loss_center_1: 0.55, 
+
+---- 120 ----
+loss_detr: 31.47, 
+loss_ce: 0.76, loss_bbox: 0.53, loss_giou: 1.31, loss_depth: 3.57, loss_dim: 0.46, loss_angle: 2.32, loss_center: 0.39, loss_depth_map: 0.81, 
+loss_ce_0: 0.71, loss_bbox_0: 0.54, loss_giou_0: 2.59, loss_depth_0: 3.31, loss_dim_0: 0.47, loss_angle_0: 2.26, loss_center_0: 2.12, 
+loss_ce_1: 0.76, loss_bbox_1: 0.53, loss_giou_1: 1.36, loss_depth_1: 3.54, loss_dim_1: 0.43, loss_angle_1: 2.29, loss_center_1: 0.40, 
+
+---- 150 ----
+loss_detr: 31.58, 
+loss_ce: 0.73, loss_bbox: 0.56, loss_giou: 1.51, loss_depth: 3.49, loss_dim: 0.59, loss_angle: 2.05, loss_center: 0.54, loss_depth_map: 1.03, 
+loss_ce_0: 0.68, loss_bbox_0: 0.57, loss_giou_0: 2.41, loss_depth_0: 3.54, loss_dim_0: 0.59, loss_angle_0: 2.02, loss_center_0: 1.86, 
+loss_ce_1: 0.75, loss_bbox_1: 0.57, loss_giou_1: 1.57, loss_depth_1: 3.46, loss_dim_1: 0.57, loss_angle_1: 1.93, loss_center_1: 0.56, 
+
+---- 180 ----
+loss_detr: 34.12, 
+loss_ce: 0.71, loss_bbox: 0.60, loss_giou: 1.54, loss_depth: 3.45, loss_dim: 0.63, loss_angle: 2.62, loss_center: 0.60, loss_depth_map: 1.02, 
+loss_ce_0: 0.67, loss_bbox_0: 0.60, loss_giou_0: 2.60, loss_depth_0: 3.56, loss_dim_0: 0.65, loss_angle_0: 2.55, loss_center_0: 2.36, 
+loss_ce_1: 0.71, loss_bbox_1: 0.61, loss_giou_1: 1.48, loss_depth_1: 3.48, loss_dim_1: 0.65, loss_angle_1: 2.50, loss_center_1: 0.54, 
+
+---- 210 ----
+loss_detr: 31.60, 
+loss_ce: 0.90, loss_bbox: 0.47, loss_giou: 1.56, loss_depth: 3.44, loss_dim: 0.56, loss_angle: 2.10, loss_center: 0.64, loss_depth_map: 0.48, 
+loss_ce_0: 0.78, loss_bbox_0: 0.50, loss_giou_0: 2.53, loss_depth_0: 3.45, loss_dim_0: 0.57, loss_angle_0: 2.04, loss_center_0: 1.91, 
+loss_ce_1: 0.91, loss_bbox_1: 0.46, loss_giou_1: 1.58, loss_depth_1: 3.38, loss_dim_1: 0.61, loss_angle_1: 2.11, loss_center_1: 0.63, 
+
+inference on 236 images by 0.31738989433999787/per image
+>>>>>>> Epoch: 2:
